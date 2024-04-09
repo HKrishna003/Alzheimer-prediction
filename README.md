@@ -4,3 +4,4 @@ It is a simple webpage while uses a flask application which allows us to upload 
 2. ModerateDemented
 3. NonDemented
 4. VeryMildDemented
+## To run the project navigate to the Alz-chat directory through command prompt and simply run using "python app.py".
